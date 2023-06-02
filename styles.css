@@ -31,11 +31,11 @@ nav a {
 
 article {
     margin-bottom: 125px;
+    float: left;
 }
 
 .background {
     max-width: 625px;
-    float: left;
     background-color: white;
     color: black;
     padding: 10px;
@@ -76,7 +76,7 @@ nav > p {
     filter: drop-shadow(7px 7px 7px lightslategray);
 }
 
-#social {
+p a {
     padding: 7px;
 }
 
