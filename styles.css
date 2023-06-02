@@ -29,13 +29,16 @@ nav a {
     padding: 7px;
 }
 
+article {
+    margin-bottom: 125px;
+}
+
 .background {
     max-width: 625px;
-    margin: auto;
     float: left;
     background-color: white;
     color: black;
-    padding: 15px;
+    padding: 10px;
 }
 
 h2 {
